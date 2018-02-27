@@ -227,9 +227,7 @@ footer{
     .p1{
         line-height: 2em;
     }
-    figcaption{
-        width:91.5%;
-    }
+    
 }
 @media(max-width:767px){
     figcaption{
